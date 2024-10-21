@@ -1,6 +1,5 @@
-# 💫 SObre mim:
-Olá muito prazer sou melquisedeque 👋
-Olá, meu nome é Melquisedeque e sou aluno de front-end. Desde que comecei a programar, me apaixonei por criar interfaces que não apenas sejam bonitas, mas também funcionais e intuitivas. Adoro o processo de transformar ideias em realidade e sempre busco aprender novas técnicas e ferramentas para aprimorar meu trabalho.
+# 💫 Sobre mim:
+Olá 👋, meu nome é Melquisedeque e sou aluno de front-end. Desde que comecei a programar, me apaixonei por criar interfaces que não apenas sejam bonitas, mas também funcionais e intuitivas. Adoro o processo de transformar ideias em realidade e sempre busco aprender novas técnicas e ferramentas para aprimorar meu trabalho.
 
 Recentemente, decidi que é hora de expandir meus horizontes e mergulhar no mundo do back-end. Estou animado com essa nova fase da minha jornada, pois quero entender melhor como as aplicações funcionam por trás das câmeras. A programação é uma verdadeira paixão para mim, e estou empolgado para enfrentar novos desafios e continuar crescendo nessa área.
 
